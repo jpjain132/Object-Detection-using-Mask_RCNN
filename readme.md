@@ -1,5 +1,5 @@
 If you want to run this from VS Code's Terminal, use:
-python mask_rcnn.py --video yourvideo.mp4
+python mask_rcnn.py --video cars.mp4
 
 or
 
